@@ -10,4 +10,4 @@
    -Dpackaging=jar
 3. import to your pom.xml
 ```
-> SDK ini sukses saya gunakan untuk fasilitas finger print pasien BPJS Kesehatan
+> SDK ini kami gunakan untuk implementasi bridging fasilitas finger print pasien BPJS Kesehatan
